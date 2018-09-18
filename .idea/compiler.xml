@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="AdapterPattern_main" target="1.8" />
+      <module name="AdapterPattern_test" target="1.8" />
+      <module name="BridgePattern_main" target="1.8" />
+      <module name="BridgePattern_test" target="1.8" />
+      <module name="CompositePattern_main" target="1.8" />
+      <module name="CompositePattern_test" target="1.8" />
+      <module name="DecoratorPattern_main" target="1.8" />
+      <module name="DecoratorPattern_test" target="1.8" />
+      <module name="DesignPattern_main" target="1.8" />
+      <module name="DesignPattern_test" target="1.8" />
+      <module name="FacadePattern_main" target="1.8" />
+      <module name="FacadePattern_test" target="1.8" />
+      <module name="FilterPattern_main" target="1.8" />
+      <module name="FilterPattern_test" target="1.8" />
+      <module name="FlyweightPattern_main" target="1.8" />
+      <module name="FlyweightPattern_test" target="1.8" />
+      <module name="InteratorPattern_main" target="1.8" />
+      <module name="InteratorPattern_test" target="1.8" />
+      <module name="InterpreterPattern_main" target="1.8" />
+      <module name="InterpreterPattern_test" target="1.8" />
+      <module name="MementoPattern_main" target="1.8" />
+      <module name="MementoPattern_test" target="1.8" />
+      <module name="ObserverPattern_main" target="1.8" />
+      <module name="ObserverPattern_test" target="1.8" />
+      <module name="PrototypePattern_main" target="1.8" />
+      <module name="PrototypePattern_test" target="1.8" />
+      <module name="ResponsibilityChainPattern_main" target="1.8" />
+      <module name="ResponsibilityChainPattern_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

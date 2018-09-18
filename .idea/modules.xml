@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdapterPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/AdapterPattern.iml" group="AdapterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdapterPattern/AdapterPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AdapterPattern/AdapterPattern_main.iml" group="AdapterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdapterPattern/AdapterPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AdapterPattern/AdapterPattern_test.iml" group="AdapterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BridgePattern.iml" filepath="$PROJECT_DIR$/.idea/modules/BridgePattern.iml" group="BridgePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BridgePattern/BridgePattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BridgePattern/BridgePattern_main.iml" group="BridgePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BridgePattern/BridgePattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BridgePattern/BridgePattern_test.iml" group="BridgePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CompositePattern.iml" filepath="$PROJECT_DIR$/.idea/modules/CompositePattern.iml" group="CompositePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CompositePattern/CompositePattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CompositePattern/CompositePattern_main.iml" group="CompositePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CompositePattern/CompositePattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CompositePattern/CompositePattern_test.iml" group="CompositePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorPattern.iml" group="DecoratorPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorPattern/DecoratorPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorPattern/DecoratorPattern_main.iml" group="DecoratorPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorPattern/DecoratorPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorPattern/DecoratorPattern_test.iml" group="DecoratorPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern_main.iml" group="DesignPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern_test.iml" group="DesignPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FacadePattern.iml" filepath="$PROJECT_DIR$/.idea/modules/FacadePattern.iml" group="FacadePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FacadePattern/FacadePattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FacadePattern/FacadePattern_main.iml" group="FacadePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FacadePattern/FacadePattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FacadePattern/FacadePattern_test.iml" group="FacadePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilterPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/FilterPattern.iml" group="FilterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilterPattern/FilterPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FilterPattern/FilterPattern_main.iml" group="FilterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilterPattern/FilterPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FilterPattern/FilterPattern_test.iml" group="FilterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlyweightPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/FlyweightPattern.iml" group="FlyweightPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlyweightPattern/FlyweightPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FlyweightPattern/FlyweightPattern_main.iml" group="FlyweightPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlyweightPattern/FlyweightPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FlyweightPattern/FlyweightPattern_test.iml" group="FlyweightPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InteratorPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/InteratorPattern.iml" group="InteratorPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InteratorPattern/InteratorPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/InteratorPattern/InteratorPattern_main.iml" group="InteratorPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InteratorPattern/InteratorPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/InteratorPattern/InteratorPattern_test.iml" group="InteratorPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterpreterPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/InterpreterPattern.iml" group="InterpreterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterpreterPattern/InterpreterPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/InterpreterPattern/InterpreterPattern_main.iml" group="InterpreterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterpreterPattern/InterpreterPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/InterpreterPattern/InterpreterPattern_test.iml" group="InterpreterPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MementoPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/MementoPattern.iml" group="MementoPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MementoPattern/MementoPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MementoPattern/MementoPattern_main.iml" group="MementoPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MementoPattern/MementoPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MementoPattern/MementoPattern_test.iml" group="MementoPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverPattern.iml" group="ObserverPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverPattern/ObserverPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverPattern/ObserverPattern_main.iml" group="ObserverPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverPattern/ObserverPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverPattern/ObserverPattern_test.iml" group="ObserverPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrototypePattern.iml" filepath="$PROJECT_DIR$/.idea/modules/PrototypePattern.iml" group="PrototypePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrototypePattern/PrototypePattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PrototypePattern/PrototypePattern_main.iml" group="PrototypePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrototypePattern/PrototypePattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PrototypePattern/PrototypePattern_test.iml" group="PrototypePattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ResponsibilityChainPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/ResponsibilityChainPattern.iml" group="ResponsibilityChainPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ResponsibilityChainPattern/ResponsibilityChainPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ResponsibilityChainPattern/ResponsibilityChainPattern_main.iml" group="ResponsibilityChainPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ResponsibilityChainPattern/ResponsibilityChainPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ResponsibilityChainPattern/ResponsibilityChainPattern_test.iml" group="ResponsibilityChainPattern" />
+    </modules>
+  </component>
+</project>
